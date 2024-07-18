@@ -1,0 +1,62 @@
+# Xcode
+#
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+*.moved-aside
+*.xcuserstate
+
+# Swift Package Manager
+#
+.build/
+.swiftpm/xcode/package.xcworkspace/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
+# CocoaPods
+#
+Pods/
+*.lock
+.podspec
+.xcworkspace
+
+# Carthage
+#
+Carthage/Build/
+
+# Accio dependency management
+#
+Dependencies/
+*.accio
+
+# fastlane
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Code Coverage
+#
+*.xccovreport
+*.xccovarchive
+
+# Other
+#
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Custom
+#
+.env
+
+
+
+
